@@ -1,4 +1,4 @@
-# Logicrom SDK - GPIO Driver example
+# Logicrom OpenCPU SDK - GPIO Driver example
 
 ## How to build
 
